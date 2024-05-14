@@ -500,6 +500,11 @@ sup {
   justify-content: space-between; 
   align-items: center; 
   color: #FDE473;
+  text-decoration: none;
+  justify-content: center;
+}
+.content a:hover {
+  color: #FDE473; /* Цвет текста ссылок при наведении остается таким же */
 }
 .language-btn {
   margin: 0 46px; 
@@ -25745,7 +25750,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: 'Oswald',sans-serif;
 }
 h1,
 h2,
@@ -42930,7 +42935,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-image:not(.u-shading) > .u-container-layout > a,
         a
         {
-        color: #478ac9;
+        color: #FDE473;
         }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a:hover,
         .u-gradient > .u-container-layout > a:hover,

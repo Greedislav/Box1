@@ -885,7 +885,7 @@
 .u-section-7 .u-text-2 {
   font-size: 3rem;
   font-weight: 700;
-  margin: -53px 372px 0 559px;
+  margin: -53px 372px 0 675px;
 }
 
 .u-section-7 .u-text-3 {
@@ -898,6 +898,7 @@
   line-height: 1.8;
   font-size: 1.5rem;
   margin: -345px 786px 232px 55px;
+  top: -85px;
 }
 
 @media (max-width: 1199px) {
@@ -992,16 +993,16 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 646px;
+    min-height: 730px;
   }
 
   .u-section-7 .u-text-1 {
-    width: 117px;
-    margin-top: 37px;
+    width: 180px;
+    margin-top: -40px;
   }
 
   .u-section-7 .u-text-2 {
-    width: 146px;
+    width: 210px;
     margin-top: 175px;
   }
 
@@ -1011,7 +1012,8 @@
   }
 
   .u-section-7 .u-text-4 {
-    margin: -502px 0 424px;
+    margin: -600px 0 424px;
+    top: 0px;
   }
 } .u-section-8 {
   background-image: url("images/Rectangle24.png");
