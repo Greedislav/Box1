@@ -1332,7 +1332,6 @@ a {
   right: 0;
   top: 50%; 
   transform: translateY(-50%); 
-  text-align: center;
   display: flex; 
   justify-content: space-between; 
   align-items: center; 
