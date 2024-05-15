@@ -1,9 +1,8 @@
  .u-section-1 {
-  background-image: url("images/Rectangle16.png");
+  background-image: url("images/Rectangle 16.png");
   background-position: 50% 50%;
   min-height: 1100px;
 }
-
 
 @media (max-width: 1199px) {
    .u-section-1 {
@@ -28,7 +27,7 @@
     min-height: 232px;
   }
 } .u-section-2 {
-  background-image: url("images/Rectangle22.png");
+  background-image: url("images/Rectangle 2.png");
   background-position: 50% 50%;
 }
 
@@ -1020,7 +1019,7 @@
 .u-section-8 .u-text-4 {
   line-height: 1.8;
   font-size: 1.5rem;
-  margin: -345px 786px 172px 55px;
+  margin: -300px 786px 172px 55px;
 }
 
 @media (max-width: 1199px) {
@@ -1126,11 +1125,12 @@
   .u-section-8 .u-text-1 {
     width: 146px;
     margin-top: 230px;
+    top: 25px;
   }
 
   .u-section-8 .u-text-2 {
-    width: 117px;
-    margin-top: -247px;
+    width: 220px;
+    margin-top: -225px;
   }
 
   .u-section-8 .u-text-3 {
@@ -1140,7 +1140,7 @@
   }
 
   .u-section-8 .u-text-4 {
-    margin-top: -495px;
+    margin-top: -470px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -1156,7 +1156,7 @@
 .u-section-9 .u-text-1 {
   font-size: 4.5rem;
   font-weight: 700;
-  width: 400px;
+  width: 450px;
   margin: 135px auto 0;
 }
 
@@ -2091,5 +2091,5 @@
 }
 
 .u-map-1 {
-  margin-bottom: 20px; /* Регулируйте значение по вашему усмотрению */
+  margin-bottom: 20px;
 }
