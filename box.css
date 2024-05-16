@@ -1333,7 +1333,7 @@ a {
   top: 50%; 
   transform: translateY(-50%); 
   display: flex; 
-  justify-content: space-between; 
+  justify-content: center; 
   align-items: center; 
   color: #FDE473;
   text-decoration: none;
@@ -1342,7 +1342,7 @@ a {
   color: #FDE473;
 }
 .language-btn {
-  margin: 0 20px; 
+  margin: 0 25px; 
   font-size: 72px; 
   background-color: transparent; 
   border: none; 
