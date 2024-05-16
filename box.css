@@ -102,7 +102,7 @@
     padding-right: 5px;
     padding-left: 0; }
     .fr-view[dir="rtl"] blockquote blockquote {
-      border-color: #00BCD4; }
+      border-color: #000000; }
       .fr-view[dir="rtl"] blockquote blockquote blockquote {
         border-color: #43A047; }
   .fr-view blockquote {
@@ -111,8 +111,8 @@
     padding-left: 5px;
     color: #5E35B1; }
     .fr-view blockquote blockquote {
-      border-color: #00BCD4;
-      color: #00BCD4; }
+      border-color: #000000;
+      color: #000000; }
       .fr-view blockquote blockquote blockquote {
         border-color: #43A047;
         color: #43A047; } */
