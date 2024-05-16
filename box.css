@@ -1337,18 +1337,21 @@ a {
   align-items: center; 
   color: #FDE473;
   text-decoration: none;
+  gap: 20px; /* Добавлено для равномерного промежутка между кнопками */
 }
+
 .content a:hover {
   color: #FDE473;
 }
+
 .language-btn {
-  margin: 0 25px; 
   font-size: 72px; 
   background-color: transparent; 
   border: none; 
   cursor: pointer;
   font-weight: bold; 
-  position: center;
+  text-align: center; /* Убедитесь, что текст в кнопках центрирован */
+  padding: 10px 20px; /* Добавлено для увеличения области клика */
 }
 
 .u-form-vertical.u-form-spacing-47,
