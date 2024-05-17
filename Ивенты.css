@@ -1933,6 +1933,7 @@
   margin: 0px 0 -241 auto;
   left: 63%;
   margin-top: -200px;
+  top: 160px;
 }
 
 .u-section-13 .u-text-2 {
@@ -2062,10 +2063,11 @@
   }
 
   .u-section-13 .u-image-1 {
-    width: 168px;
-    height: 87px;
-    margin-top: 104px;
+    width: 150px;
+    height: 80px;
+    margin-top: -90px;
     right: -55%;
+    top: 89px;
   }
 
   .u-section-13 .u-text-2 {
